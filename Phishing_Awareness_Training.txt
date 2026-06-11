@@ -1,0 +1,14 @@
+Phishing Awareness Training
+
+Created for CodeAlpha Cyber Security Internship
+
+Topics Covered:
+- What is Phishing?
+- How to Identify Phishing Emails
+- How to Identify Fake Websites
+- Social Engineering Tactics
+- Best Practices to Stay Safe
+- Real World Example
+- Quiz
+
+Prepared by: Praveena S
